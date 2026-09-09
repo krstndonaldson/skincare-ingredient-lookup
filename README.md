@@ -12,7 +12,7 @@ I choose products by ingredients rather than brand, so I built this to check wha
   
 - [ingredient lookup](ingredient_lookup.R`) — search function + summary chart
   
-- [Ingredients by function](ingredients_by_function.png)
+- [Ingredients by function](ingredients_by_function.png) - chart
 
 
 ## Tools used
