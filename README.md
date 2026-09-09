@@ -9,7 +9,7 @@ I choose products by ingredients rather than brand, so I built this to check wha
 
 ## Files
 ![Ingredients by function](ingredients_by_function.png)
-!(ingredient_lookup.R`) — search function + summary chart
+![Lookup](ingredient_lookup.R`) — search function + summary chart
 - `ingredients_by_function.png` — chart output
 
 ## Tools used
