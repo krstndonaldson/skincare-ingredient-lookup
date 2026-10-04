@@ -9,14 +9,14 @@ lookup <- function(name) {
   ingredients |>
     # Keep rows where the search term appears anywhere in the ingredient name (case-insensitive)
     filter(str_detect(tolower(Name), tolower(name))) |>
-    select(Name, `INCI name`, Function, `Irritation potential`, Notes)
+    select(Name, `INCI name`, Function, `Irritation potential`)
 }
 
 # Search by function, e.g. lookup_function("acne") or lookup_function("hydrat")
 lookup_function <- function(fn) {
   ingredients |>
     filter(str_detect(tolower(Function), tolower(fn))) |>
-    select(Name, Function, `Irritation potential`, Notes)
+    select(Name, Function, `Irritation potential`)
 }
 
 # Examples
