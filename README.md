@@ -7,6 +7,6 @@ I choose products by ingredients rather than brand, so I built this to check wha
 ## Files
 - [ingredients](ingredients.csv) — dataset
   
-- [ingredient lookup](ingredient_lookup.R`) — search function + summary chart
+- [ingredient lookup](ingredient_lookup.R) — search function + summary chart
   
 - [Ingredients by function](ingredients_by_function.png) — chart
