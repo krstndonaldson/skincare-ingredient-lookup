@@ -18,4 +18,4 @@ This list is highly specific to **my own skin** (dry, sensitive, and acne-prone)
 - The **Irritation potential** values (Low / Medium / High) are general estimates for dry, sensitive skin based on common knowledge. They are not all from my personal experience, and I'm updating them as I try things myself.
 - **Unknown** means I haven't used the ingredient or don't have enough confidence to rate it yet.
 - I haven't used any animal-derived ingredients, so these are marked Unknown: PDRN, snail secretion filtrate, propolis, beeswax, and lanolin.
-- I'm also unsure about these, so they are marked Unknown too: bifida ferment lysate, lactobacillus ferment, galactomyces ferment filtrate, birch sap, sea water, ginseng extract, rice extract/fermented rice water, glutathione, astaxanthin, ectoin, bearberry extract, and betmotrizinol.
+- I'm also unsure about these, so they are marked Unknown too: bifida ferment lysate, lactobacillus ferment, galactomyces ferment filtrate, sea water, ginseng extract, glutathione, astaxanthin, ectoin, bearberry extract, and betmotrizinol.
